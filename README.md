@@ -8,7 +8,7 @@ __ВНИМАНИЕ!__ Этот репозиторий форк https://github.co
 <br>6. Откройте cmd, напишите `py NotepadRPC.py`.
 <br>Все уже настроено и переведено. Пользуйтесь с удовольстивем!</br>
 # Скриншот:
-<img src="https://www.m4r5ha11.com/ttwm/uploads/rpc.png">
+<img src="https://m4r5ha11.com/ttwm/uploads/rpc.png">
 
 
 
